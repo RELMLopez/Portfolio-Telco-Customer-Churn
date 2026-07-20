@@ -214,5 +214,5 @@ The result is a business-ready churn management framework that empowers telecom 
 └── README.md
 
 ## 👨‍💼 About the Analyst  
-**Robert Lopez**
+**Robert Lopez**  
 U.S. Marine Corps Veteran • Biochemistry • Data Science • MBA Candidate
